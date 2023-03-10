@@ -59,3 +59,8 @@ https://www.youtube.com/watch?v=EAcPf_JhR_4
 https://www.youtube.com/watch?v=Gze7DS6HQeU
 https://www.youtube.com/watch?v=1bdU86705yw
 ```
+
+## Acknowledgements
+
+This work is part of a Technology Transfer Agreement among Museum of Person (MuPe), Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP) and Federal University of Goiás. This
+work was carried out at the Center for Artificial Intelligence (C4AI-USP), with support by the São Paulo Research Foundation (FAPESP grant #2019/07665-4) and by the IBM Corporation. We also thank the support of the Centro de Excelência em Inteligência Artificial (CEIA) funded by the Goiás State Foundation (FAPEG grant #201910267000527). This project was also supported by the Ministry of Science, Technology and Innovation, with resources of Law No. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published Residence in TIC 13, DOU 01245.010222/2022-44.
