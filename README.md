@@ -1,6 +1,6 @@
 # ASR Punctuation Evaluation
 
-Paper: coming soon.
+Paper: https://arxiv.org/abs/2305.14580
 
 This repository contains the code for ASR punctuation evaluation on non aligned texts. 
 
@@ -14,7 +14,12 @@ We also performed other preprocessing steps in both original and automatic trans
 
 ### Steps to prepare the data for punctuation analysis
 
-1. Download the MuPe samples (videos.txt), and convert the audios to 16khz mono wav files. The manual transcriptions will be made available soon.
+1. Download the MuPe samples (videos.txt), and convert the audios to 16khz mono wav files. The manual transcriptions (`manual_transcriptions/`) were anonymized and are available using the same index of their corresponding videos. The anonymization rules are the following:
+ - Full names of male respondents were replaced with João and female respondents with Maria.
+ - Incomplete names of respondents were swapped to João/Maria
+ - Full names of family members were changed to João/Maria
+ - Incomplete names of family members were swapped to João/Maria
+ - Family name were changed to "family name"
 
 2. Diarize the audios using diarize.py script.
 
